@@ -28,7 +28,7 @@
 </html>
 
 ```
-![gambar1](/lab5_js/img/output%201.png)
+![gambar](img/output 1.png)
 
 # Javascrip Dasar
 * Pemakaian Alert sebagai property window.
