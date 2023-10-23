@@ -28,7 +28,7 @@
 </html>
 
 ```
-![gambar](img/output 1.png)
+![gambar](ss/1.png)
 
 # Javascrip Dasar
 * Pemakaian Alert sebagai property window.
@@ -46,7 +46,7 @@
     </body>
 </html>
 ```
-![gambar2](/lab5_js/img/output%202.png)
+![gambar2](ss/2.png)
 
 * Pemakaian method dalam objek
 ```
@@ -65,7 +65,7 @@
     </body>
 </html>
 ```
-![gambar3](/lab5_js/img/output%203.png)
+![gambar3](ss/3.png)
 
 * Pemakaian method dalam objek
 ```
@@ -83,8 +83,8 @@
     </body>
 </html>
 ```
-![gambar4.0](/lab5_js/img/output%204.0.png)
-![gambar4.1](/lab5_js/img/output%204.1.png)
+![gambar4.0](ss/4.0.png)
+![gambar4.1](ss/4.1.png)
 
 * Pembuatan fungsi dan cara pemanggilannya
 ```
@@ -101,7 +101,7 @@
     </body>
 </html>
 ```
-![gambar5](/lab5_js/img/output%205.png)
+![gambar5](ss/5.png)
 
 # Dasar Pemrograman Di Javascript
 * Operasi dasar aritmatika
@@ -131,7 +131,7 @@
     </body>
 </html>
 ```
-![gambar6](/lab5_js/img/output%206.png)
+![gambar6](ss/6.png)
 
 * Seleksi kondisi (if..else)
 ```
@@ -154,8 +154,8 @@
     </body>
 </html>
 ```
-![gambar7.0](/lab5_js/img/output%207.0.png)
-![gambar7.1](/lab5_js/img/output%207.1.png)
+![gambar7.0](ss/7.png)
+![gambar7.1](ss/7.1.png)
 
 * Penggunaan operator switch untuk seleksi kondisi
 ```
@@ -195,8 +195,8 @@
     </body>
 </html>
 ```
-![gambar8.0](/lab5_js/img/output%208.0.png)
-![gambra8.1](/lab5_js/img/output%208.1.png)
+![gambar8.0](ss/8.png)
+![gambra8.1](ss/8.1.png)
 
 # Pembuatan Form
 * Form Input
@@ -222,7 +222,7 @@
     </body>
 </html>
 ```
-![gambar9](/lab5_js/img/output%209.png)
+![gambar9](ss/9.png)
 
 * Form Button
 ```
@@ -258,7 +258,7 @@
     </body>
 </html>
 ```
-![gambar10](/lab5_js/img/output%2010.png)
+![gambar10](ss/10.png)
 
 # HTML DOM
 * Pilihan menggunakan checkBox dengan perhitungan otomatis
@@ -297,7 +297,7 @@
     </body>
 </html>
 ```
-![gambar11](/lab5_js/img/output%2011.png)
+![gambar11](ss/11.png)
 
 # Pertanyaan dan Tugas
 * 1. Buat script untuk melakukan validasi pada isian form.
